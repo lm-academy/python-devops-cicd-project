@@ -3,7 +3,7 @@ This repo contains the code for the CI/CD section of my Python for DevOps course
 
 ## What we implement in this repository
 
-[] Implement the project (code files)
+[x] Implement the project (code files)
 [] Add a simple GHA workflow and make sure it runs until completion
 [] Add linting and format checks
 [] Add typing and security checks
