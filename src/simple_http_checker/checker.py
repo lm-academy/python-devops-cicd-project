@@ -1,11 +1,12 @@
 import logging
 import requests
+from typing import Collection
 
 logger = logging.getLogger(__name__)
 
 
 def check_urls(
-    urls: list[str], timeout: int = 5
+    urls: Collection[str], timeout: int = 5
 ) -> dict[str, str]:
     """
     Checks a list of URLs and returns their status.
