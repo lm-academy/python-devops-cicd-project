@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.1.0 (2025-07-08)
+
+### Features
+
+- **python-cicd**: Add publish to PyPI
+  ([`29b53e1`](https://github.com/lm-academy/python-devops-cicd-project/commit/29b53e1134ae5aab769287d32f4cbc2e073dc4da))
+
+
 ## v2.0.0 (2025-07-08)
 
 ### Features
