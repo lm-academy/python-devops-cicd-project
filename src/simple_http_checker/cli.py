@@ -1,5 +1,6 @@
 import logging
 import click
+from typing import Collection
 
 from .checker import check_urls
 
@@ -22,7 +23,7 @@ logger = logging.getLogger(__name__)
 @click.option(
     "--verbose", "-v", is_flag=True, help="Enable debug logging."
 )
-def main(urls, timeout, verbose):
+def main(urls: Collection[str], timeout: int, verbose: bool):
     if verbose:
         logging.getLogger().setLevel(logging.DEBUG)
         logger.debug("Verbose logging enabled.")
