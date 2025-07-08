@@ -15,6 +15,8 @@ dependencies = [
 
 [project.optional-dependencies]
 dev = [
+  "pytest",
+  "pytest-mock",
   "ruff",
   "black",
   "mypy",
@@ -38,3 +40,6 @@ ignore_missing_imports = true
 
 [tool.bandit]
 exclude_dirs = [".venv", "__pycache__", "build", "dist"]
+
+[tool.pytest.ini_options]
+addopts = "-rA -s -v"
