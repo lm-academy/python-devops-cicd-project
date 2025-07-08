@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.1.2 (2025-07-08)
+
+### Bug Fixes
+
+- **python-cicd**: Try adding trailing slash
+  ([`79779e8`](https://github.com/lm-academy/python-devops-cicd-project/commit/79779e886b88f5d123968554338146c95275bee7))
+
+
 ## v1.1.1 (2025-07-08)
 
 ### Bug Fixes
