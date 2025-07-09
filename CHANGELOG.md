@@ -2,6 +2,22 @@
 
 <!-- version list -->
 
+## v2.1.1 (2025-07-09)
+
+### Chores
+
+- **python-cicd**: Add link to course main repo
+  ([`8d01646`](https://github.com/lm-academy/python-devops-cicd-project/commit/8d016464084ffde8432d492fa5a938126716efa9))
+
+- **python-cicd**: Format README [skip ci]
+  ([`8b625fe`](https://github.com/lm-academy/python-devops-cicd-project/commit/8b625fe2fedae74c3e2907da2c8144398e5b583f))
+
+### Performance Improvements
+
+- **python-cicd**: Deduplicate build logic and download artifacts from release
+  ([`96b71fb`](https://github.com/lm-academy/python-devops-cicd-project/commit/96b71fb00e4f109a09c340c9bc3321eda9fb32fb))
+
+
 ## v2.1.0 (2025-07-08)
 
 ### Features
