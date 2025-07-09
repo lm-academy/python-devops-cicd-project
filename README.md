@@ -4,6 +4,8 @@ This repository contains the complete CI/CD implementation for the CI/CD section
 
 ### ➡️ Course link (with a big discount 🙂): [https://www.lauromueller.com/courses/python-devops](https://www.lauromueller.com/courses/python-devops)
 
+**Note:** Here is the link to the main code repository for the course: [https://github.com/lm-academy/python-devops](https://github.com/lm-academy/python-devops)
+
 **Check my other courses:**
 
 - 👉 [The Definitive Helm Course: From Beginner to Master](https://www.lauromueller.com/courses/definitive-helm-course)
